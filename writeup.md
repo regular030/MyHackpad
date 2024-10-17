@@ -3,14 +3,14 @@
 ## Overview
 - This device functions as both a calculator and a macro pad.
 - Key gestures include:
-  - **7 + 8 + 9**: Switches between calculator and macro modes.
-  - **+ and - in calculator mode**: Opens the Windows calculator.
+  - 7 + 8 + 9: Switches between calculator and macro modes.
+  - + and - in calculator mode: Opens the Windows calculator.
 
 ## PCB
 - All footprints and libraries are sourced from Joe Scotto.
-- Wiring color conventions:
-  - **Vertical diodes**: Red wire
-  - **Horizontal diodes**: Blue wire
+- Wiring conventions:
+  - Vertical diodes: Red wire
+  - Horizontal diodes: Blue wire
 
 ## CAD
 - For 3D printing, use **hackpadCase_WithoutPCB.step**.
@@ -18,4 +18,4 @@
 - Corner holes have a diameter of **2.9mm**.
 
 ## Firmware
-- 
+- More macros coming soon
