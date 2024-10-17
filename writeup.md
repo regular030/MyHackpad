@@ -19,3 +19,9 @@
 
 ## Firmware
 - More macros coming soon
+- ex: 
+  - Open Spotify
+  - Open Discord
+  - Open YT
+  - Copy
+  - Paste as plain text (idk how I could do this)
