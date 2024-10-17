@@ -1,4 +1,4 @@
-# Writeup
+# Writeup | SaturnBoard
 
 ## Overview
 - This device functions as both a calculator and a macro pad.
