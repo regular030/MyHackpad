@@ -5,3 +5,6 @@
 - 16x Push Switches (SW_Push)
 - 16x White keycaps
 - 1x Seeed XIAO RP2040 MCU
+
+
+THE REPO HAS BEEN CHANGED TO https://github.com/regular030/hackpad/tree/main
