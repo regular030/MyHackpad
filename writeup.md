@@ -18,4 +18,4 @@
 - Corner holes have a diameter of **2.9mm**.
 
 ## Firmware
-- (You can add specific firmware details here, using bullet points for clarity)
+- 
