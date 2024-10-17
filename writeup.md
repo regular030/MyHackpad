@@ -13,9 +13,9 @@
   - Horizontal diodes: Blue wire
 
 ## CAD
-- For 3D printing, use **hackpadCase_WithoutPCB.step**.
-- To visualize the assembled unit, use **hackpadCase_WithPCB.step**.
-- Corner holes have a diameter of **2.9mm**.
+- For 3D printing, use **hackpadCase_WithoutPCB.step**
+- To visualize the assembled unit, use **hackpadCase_WithPCB.step**
+- Corner holes have a diameter of **2.9mm**
 
 ## Firmware
 - More macros coming soon
