@@ -1,4 +1,4 @@
-# BOM:
+# BOM: | SaturnBoard
 
 - 16x 1N4148 Diodes
 - 1x OLED 128x32 (Adafruit_SSD1306 would be good but not needed) 
